@@ -1,5 +1,9 @@
 # RESTful-API
 Simple rest api for a shop, if you want to test it make sure you have postman installed.
+## Don't know what an API is?:
+
+Beginner's guide to APIs:
+https://project-open-data.cio.gov/api-basics/
 
 Link for postman for windows:
 https://app.getpostman.com/app/download/win64?_ga=2.253255489.911076704.1520705676-1486875565.1520515822
@@ -15,3 +19,6 @@ npm install
 ```
 
 this will install all the node modules needed for the application.
+
+
+##
