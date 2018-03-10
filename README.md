@@ -21,4 +21,9 @@ npm install
 this will install all the node modules needed for the application.
 
 
-##
+## Once downloaded and modules installed:
+Go ahead and run the server by initiating the command line
+```
+npm start
+```
+this will initiate the nodemon server file. 
