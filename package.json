@@ -14,7 +14,9 @@
   "author": "Hunter Rafuse",
   "license": "ISC",
   "dependencies": {
+    "atob": "^2.1.0",
     "body-parser": "^1.18.2",
+    "deep-extend": "^0.5.1",
     "express": "^4.16.2",
     "mongoose": "^4.13.5",
     "morgan": "^1.9.0"
